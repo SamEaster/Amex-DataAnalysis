@@ -6,7 +6,7 @@ This project analyzes the Amex dataset, focusing on default prediction based on 
 
 ## Dataset Description
 
-The dataset consists of **61 columns** and **62,484 rows**. It includes various fields such as:
+The dataset consists of **61 columns** and **500k+ rows**. It includes various fields such as:
 
 - **unique_identifier**: A unique ID for each record.
 - **appl_month**: Month of application.
